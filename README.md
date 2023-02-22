@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Milena 👋
 
-- 🔭 Atualmente trabalho com Testes de software
-- 🌱 Estou estudando sobre os tipos, níveis e atividades de testes
+- 🔭 Atualmente estou em tranbsição de carreira para Testes de software 🐞
+- 🌱 Estou estudando sobre testes e linguagens de programação
 - 👯 Colaboro de forma voluntária em projetos da SouJr Lab
 - 😄 Pronouns: Ela/Dela
 

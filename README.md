@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Milena 👋
 
-- 🔭 Atualmente estou em transição de carreira para Testes de software 🐞
+- 🔭 Em transição de carreira para Testes de software 🐞
 - 🌱 Estou estudando sobre testes e análise e desenvolvimento de sistemas
 - 🎓 Certificada CTFL pelo ISTQB 
 - 👯 Colaboro de forma voluntária em projetos da SouJr Lab
